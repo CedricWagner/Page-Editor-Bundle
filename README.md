@@ -38,6 +38,13 @@ in the `config/bundles.php` file of your project:
 
 return [
     // ...
-    CedricW\PageEditorBundle::class::class => ['all' => true],
+    CedricWagner\PageEditorBundle\PageEditorBundle::class => ['all' => true],
 ];
+```
+Register path
+-------------
+Add the following to yout config/packages/twig.yaml
+```yml
+paths:
+    '%kernel.project_dir%/vendor/cedricwagner/page-editor-bundle/templates': PageEditorBundle
 ```
