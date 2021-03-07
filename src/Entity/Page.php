@@ -1,9 +1,9 @@
 <?php
 
-namespace CedricW\PageEditorBundle\Entity;
+namespace CedricWagner\PageEditorBundle\Entity;
 
-use CedricW\PageEditorBundle\Repository\PageRepository;
-use CedricW\PageEditorBundle\Entity\Section;
+use CedricWagner\PageEditorBundle\Repository\PageRepository;
+use CedricWagner\PageEditorBundle\Entity\Section;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;

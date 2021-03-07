@@ -1,5 +1,5 @@
 <?php
-namespace CedricW\PageEditorBundle;
+namespace CedricWagner\PageEditorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

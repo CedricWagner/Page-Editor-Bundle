@@ -1,6 +1,6 @@
 <?php
 
-namespace CedricW\PageEditorBundle\Controller;
+namespace CedricWagner\PageEditorBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;

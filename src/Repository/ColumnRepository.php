@@ -1,8 +1,8 @@
 <?php
 
-namespace CedricW\PageEditorBundle\Repository;
+namespace CedricWagner\PageEditorBundle\Repository;
 
-use CedricW\PageEditorBundle\Entity\Column;
+use CedricWagner\PageEditorBundle\Entity\Column;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 

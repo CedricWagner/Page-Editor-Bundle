@@ -1,10 +1,10 @@
 <?php
 
-namespace CedricW\PageEditorBundle\Entity;
+namespace CedricWagner\PageEditorBundle\Entity;
 
-use CedricW\PageEditorBundle\Entity\Page;
-use CedricW\PageEditorBundle\Repository\SectionRepository;
-use CedricW\PageEditorBundle\Entity\Column;
+use CedricWagner\PageEditorBundle\Entity\Page;
+use CedricWagner\PageEditorBundle\Repository\SectionRepository;
+use CedricWagner\PageEditorBundle\Entity\Column;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;

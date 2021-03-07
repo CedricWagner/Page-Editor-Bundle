@@ -1,9 +1,9 @@
 <?php
 
-namespace CedricW\PageEditorBundle\Entity;
+namespace CedricWagner\PageEditorBundle\Entity;
 
-use CedricW\PageEditorBundle\Entity\Section;
-use CedricW\PageEditorBundle\Repository\ColumnRepository;
+use CedricWagner\PageEditorBundle\Entity\Section;
+use CedricWagner\PageEditorBundle\Repository\ColumnRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
