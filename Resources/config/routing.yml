@@ -1,0 +1,3 @@
+# cedricw_page_editor_:
+#     resource: "../src/Controller/PageEditorController.php"
+#     type: annotation
